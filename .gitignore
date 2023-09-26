@@ -1,2 +1,3 @@
 **/*.DS_Store
 /bday/og
+_next/static/chunks/app/bday/og/
