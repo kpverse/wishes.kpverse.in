@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fbday\u002F[id]","\u002Fbday\u002Fog\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
